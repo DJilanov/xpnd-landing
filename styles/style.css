@@ -81,7 +81,7 @@ h1, h2, label {
 	display: flex;
 }
 
-.right-side form {
+.right-side .form {
 	padding-left: 10%;
 	padding-right: 15%;
 	color: white;
